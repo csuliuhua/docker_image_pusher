@@ -1,2 +1,2 @@
-kartoza/geoserver:latest --platform=arm64
+kartoza/geoserver --platform=arm64
 
