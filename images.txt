@@ -1,2 +1,2 @@
-kartoza/geoserver --platform=aarch64
+python:alpine3.19
 
