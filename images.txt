@@ -1,2 +1,2 @@
-python:alpine3.19
+kartoza/geoserver:2.20.3
 
